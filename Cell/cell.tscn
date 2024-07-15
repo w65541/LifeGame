@@ -1,0 +1,67 @@
+[gd_scene load_steps=5 format=3 uid="uid://diu0asrqy0lrq"]
+
+[ext_resource type="Script" path="res://Cell/cell.cs" id="1_pxiwv"]
+[ext_resource type="Texture2D" uid="uid://csqgxggpq8bn2" path="res://Textures/Dead.png" id="2_jor64"]
+[ext_resource type="Texture2D" uid="uid://572frior2v0j" path="res://Textures/highlight.png" id="3_bntje"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pp6o4"]
+size = Vector2(98, 98)
+
+[node name="Cell" type="Node2D" groups=["Cell"]]
+script = ExtResource("1_pxiwv")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_jor64")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("RectangleShape2D_pp6o4")
+
+[node name="RayCast2D" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(0, 92)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D2" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(92, 0)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D3" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(0, -92)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D4" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(-92, 0)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D5" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(-92, 92)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D6" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(92, 92)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D7" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(-92, -92)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="RayCast2D8" type="RayCast2D" parent="Area2D"]
+target_position = Vector2(92, -92)
+hit_from_inside = true
+collide_with_areas = true
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+visible = false
+texture = ExtResource("3_bntje")
+
+[connection signal="input_event" from="Area2D" to="." method="_on_area_2d_input_event"]
+[connection signal="mouse_entered" from="Area2D" to="." method="_on_area_2d_mouse_entered"]
+[connection signal="mouse_exited" from="Area2D" to="." method="_on_area_2d_mouse_exited"]
