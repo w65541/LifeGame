@@ -32,6 +32,7 @@ public partial class main : Node2D
 		{
 			item.checkNextState();
 		}
+
 		foreach (var item in x.Cast<cell>())
 		{
 			item.goNextState();

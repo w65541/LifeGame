@@ -44,7 +44,7 @@ public partial class cell : Node2D
 			}
 		}
 		
-			//GD.Print(Name+" "+somsiedzi.Count);
+			//if(somsiedzi.Count<8)GD.Print(Name+" "+somsiedzi.Count);
 		
 		for (int i = 1; i < 9; i++)
 		{

@@ -234,9 +234,6 @@ position = Vector2(1000, 300)
 [node name="Cell73" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1000, 400)
 
-[node name="Cell74" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(600, 0)
-
 [node name="Cell75" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(0, 600)
 
@@ -344,9 +341,6 @@ position = Vector2(400, 900)
 
 [node name="Cell110" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(400, 1000)
-
-[node name="Cell111" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(0, 600)
 
 [node name="Cell112" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(600, 600)
@@ -456,9 +450,6 @@ position = Vector2(1000, 900)
 [node name="Cell147" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1000, 1000)
 
-[node name="Cell148" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(600, 600)
-
 [node name="Cell149" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-1200, 0)
 
@@ -566,9 +557,6 @@ position = Vector2(-800, 300)
 
 [node name="Cell184" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-800, 400)
-
-[node name="Cell185" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-1200, 0)
 
 [node name="Cell186" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-600, 0)
@@ -678,9 +666,6 @@ position = Vector2(-200, 300)
 [node name="Cell221" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-200, 400)
 
-[node name="Cell222" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-600, 0)
-
 [node name="Cell223" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-1200, 600)
 
@@ -789,9 +774,6 @@ position = Vector2(-800, 900)
 [node name="Cell258" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-800, 1000)
 
-[node name="Cell259" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-1200, 600)
-
 [node name="Cell260" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-600, 600)
 
@@ -899,9 +881,6 @@ position = Vector2(-200, 900)
 
 [node name="Cell295" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-200, 1000)
-
-[node name="Cell296" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-600, 600)
 
 [node name="Cell297" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1100, -100)
@@ -1101,9 +1080,6 @@ position = Vector2(3200, 300)
 [node name="Cell370" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(3200, 400)
 
-[node name="Cell380" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(3100, 0)
-
 [node name="Cell381" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2500, 600)
 
@@ -1212,9 +1188,6 @@ position = Vector2(2900, 900)
 [node name="Cell416" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2900, 1000)
 
-[node name="Cell417" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(2500, 600)
-
 [node name="Cell418" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(3100, 600)
 
@@ -1268,9 +1241,6 @@ position = Vector2(3200, 900)
 
 [node name="Cell444" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(3200, 1000)
-
-[node name="Cell454" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(3100, 600)
 
 [node name="Cell455" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1300, 0)
@@ -1380,9 +1350,6 @@ position = Vector2(1700, 300)
 [node name="Cell490" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1700, 400)
 
-[node name="Cell491" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1300, 0)
-
 [node name="Cell492" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1900, 0)
 
@@ -1490,9 +1457,6 @@ position = Vector2(2300, 300)
 
 [node name="Cell527" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2300, 400)
-
-[node name="Cell528" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1900, 0)
 
 [node name="Cell529" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1300, 600)
@@ -1602,9 +1566,6 @@ position = Vector2(1700, 900)
 [node name="Cell564" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1700, 1000)
 
-[node name="Cell565" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1300, 600)
-
 [node name="Cell566" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1900, 600)
 
@@ -1712,9 +1673,6 @@ position = Vector2(2300, 900)
 
 [node name="Cell601" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2300, 1000)
-
-[node name="Cell602" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1900, 600)
 
 [node name="Cell615" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(0, 1200)
@@ -1932,9 +1890,6 @@ position = Vector2(1000, 1500)
 [node name="Cell686" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1000, 1600)
 
-[node name="Cell687" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(600, 1200)
-
 [node name="Cell688" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(0, 1800)
 
@@ -2042,9 +1997,6 @@ position = Vector2(400, 2100)
 
 [node name="Cell723" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(400, 2200)
-
-[node name="Cell724" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(0, 1800)
 
 [node name="Cell725" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(600, 1800)
@@ -2154,9 +2106,6 @@ position = Vector2(1000, 2100)
 [node name="Cell760" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1000, 2200)
 
-[node name="Cell761" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(600, 1800)
-
 [node name="Cell762" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-1200, 1200)
 
@@ -2264,9 +2213,6 @@ position = Vector2(-800, 1500)
 
 [node name="Cell797" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-800, 1600)
-
-[node name="Cell798" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-1200, 1200)
 
 [node name="Cell799" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-600, 1200)
@@ -2376,9 +2322,6 @@ position = Vector2(-200, 1500)
 [node name="Cell834" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-200, 1600)
 
-[node name="Cell835" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-600, 1200)
-
 [node name="Cell836" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-1200, 1800)
 
@@ -2487,9 +2430,6 @@ position = Vector2(-800, 2100)
 [node name="Cell871" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-800, 2200)
 
-[node name="Cell872" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-1200, 1800)
-
 [node name="Cell873" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-600, 1800)
 
@@ -2597,9 +2537,6 @@ position = Vector2(-200, 2100)
 
 [node name="Cell908" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(-200, 2200)
-
-[node name="Cell909" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(-600, 1800)
 
 [node name="Cell910" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1100, 1100)
@@ -2799,9 +2736,6 @@ position = Vector2(3200, 1500)
 [node name="Cell984" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(3200, 1600)
 
-[node name="Cell994" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(3100, 1200)
-
 [node name="Cell995" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2500, 1800)
 
@@ -2910,9 +2844,6 @@ position = Vector2(2900, 2100)
 [node name="Cell1030" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2900, 2200)
 
-[node name="Cell1031" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(2500, 1800)
-
 [node name="Cell1032" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(3100, 1800)
 
@@ -2966,9 +2897,6 @@ position = Vector2(3200, 2100)
 
 [node name="Cell1058" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(3200, 2200)
-
-[node name="Cell1068" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(3100, 1800)
 
 [node name="Cell1069" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1300, 1200)
@@ -3078,9 +3006,6 @@ position = Vector2(1700, 1500)
 [node name="Cell1104" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1700, 1600)
 
-[node name="Cell1105" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1300, 1200)
-
 [node name="Cell1106" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1900, 1200)
 
@@ -3188,9 +3113,6 @@ position = Vector2(2300, 1500)
 
 [node name="Cell1141" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2300, 1600)
-
-[node name="Cell1142" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1900, 1200)
 
 [node name="Cell1143" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1300, 1800)
@@ -3300,9 +3222,6 @@ position = Vector2(1700, 2100)
 [node name="Cell1178" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1700, 2200)
 
-[node name="Cell1179" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1300, 1800)
-
 [node name="Cell1180" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(1900, 1800)
 
@@ -3410,9 +3329,6 @@ position = Vector2(2300, 2100)
 
 [node name="Cell1215" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(2300, 2200)
-
-[node name="Cell1216" parent="." instance=ExtResource("2_kry40")]
-position = Vector2(1900, 1800)
 
 [node name="Cell1401" parent="." instance=ExtResource("2_kry40")]
 position = Vector2(0, 2300)
